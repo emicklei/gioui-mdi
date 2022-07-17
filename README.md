@@ -6,3 +6,5 @@ Experimental package to have MDI (Multiple Document Interface) widgets in [Gio U
 
     cd demo
     go run *.go
+
+![](demo-snapshot.png)
